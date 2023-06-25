@@ -15,7 +15,7 @@
 <img width="160" alt="lgpx" src="https://github.com/SterlingBrayboy/SterlingBrayboy/assets/123781522/3331f80a-6b1b-48b4-85be-4bc5b177f514">
 <img width="160" alt="xbox" src="https://github.com/SterlingBrayboy/SterlingBrayboy/assets/123781522/e5ad39a1-43d2-48d6-a847-c77372b146bd">
 
-### - Current Languages & Tools: 
+### - 💬 Current Languages & Tools: 
 <img width="160" alt="vscode" src="https://github.com/SterlingBrayboy/SterlingBrayboy/assets/123781522/a3a4bd26-57cb-4f86-984a-6453c103b89e">
 <img width="160" alt="html" src="https://github.com/SterlingBrayboy/SterlingBrayboy/assets/123781522/8aef364f-9a37-4a21-9f8d-822fb95c6245">
 <img width="160" alt="css" src="https://github.com/SterlingBrayboy/SterlingBrayboy/assets/123781522/611fe4d0-5678-4598-bb11-d3d414932d56">
