@@ -8,13 +8,6 @@
 
 ### - 👯 I’m a student at TripleTen Tech (Coding Bootcamp)
 
-### - ⚡ Besides coding, I enjoy Crypto, Sci-Fi, Blockchain/Disributed Ledger Technology, Music Production, & Gaming
-<img width="160" alt="xrp" src="https://github.com/SterlingBrayboy/SterlingBrayboy/assets/123781522/e2d41c5a-d900-4ee4-9f83-e127c3d120b4">
-<img width="160" alt="storm" src="https://github.com/SterlingBrayboy/SterlingBrayboy/assets/123781522/42929444-6f31-4276-b541-6fb8bb130397">
-<img width="160" alt="block" src="https://github.com/SterlingBrayboy/SterlingBrayboy/assets/123781522/8f323554-1613-4c0c-b790-d87749139e05">
-<img width="160" alt="lgpx" src="https://github.com/SterlingBrayboy/SterlingBrayboy/assets/123781522/3331f80a-6b1b-48b4-85be-4bc5b177f514">
-<img width="160" alt="xbox" src="https://github.com/SterlingBrayboy/SterlingBrayboy/assets/123781522/e5ad39a1-43d2-48d6-a847-c77372b146bd">
-
 ### - 💬 Current Languages & Tools: 
 <img width="160" alt="vscode" src="https://github.com/SterlingBrayboy/SterlingBrayboy/assets/123781522/a3a4bd26-57cb-4f86-984a-6453c103b89e">
 <img width="160" alt="html" src="https://github.com/SterlingBrayboy/SterlingBrayboy/assets/123781522/8aef364f-9a37-4a21-9f8d-822fb95c6245">
