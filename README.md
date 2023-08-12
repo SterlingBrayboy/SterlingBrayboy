@@ -1,4 +1,4 @@
-![bannerww](https://github.com/SterlingBrayboy/SterlingBrayboy/assets/123781522/bd25a354-0018-43ad-88fa-c95c377895ad)
+![newnew](https://github.com/SterlingBrayboy/SterlingBrayboy/assets/123781522/e10822ac-c6ad-4a80-a541-cccf48494922)
 
 ### 👋 Hello! I’m a student at TripleTen, and currently building my front-end skills.
 ### ⛓
