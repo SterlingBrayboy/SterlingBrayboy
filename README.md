@@ -1,7 +1,8 @@
 ![newnew](https://github.com/SterlingBrayboy/SterlingBrayboy/assets/123781522/e10822ac-c6ad-4a80-a541-cccf48494922)
 
-### 👋 Hello! I’m a student at TripleTen, and currently building my front-end skills.
-### ⛓
+## 👋 Hello! I’m a software engineering student at TripleTen, currently building my front-end skills.
+
+
 ### 💬 Current Tech Stack: 
 <img width="160" alt="vscode" src="https://github.com/SterlingBrayboy/SterlingBrayboy/assets/123781522/a3a4bd26-57cb-4f86-984a-6453c103b89e">
 <img width="160" alt="html" src="https://github.com/SterlingBrayboy/SterlingBrayboy/assets/123781522/8aef364f-9a37-4a21-9f8d-822fb95c6245">
