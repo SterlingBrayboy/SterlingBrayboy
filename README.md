@@ -1,6 +1,6 @@
 ![newnew](https://github.com/SterlingBrayboy/SterlingBrayboy/assets/123781522/e10822ac-c6ad-4a80-a541-cccf48494922)
 
-### 👋 Hello World! I’m a software engineering student at TripleTen, currently building my front-end skills. I've built a couple of landing pages and I'm currently working on an app. Below is my current tech stack (in addition to some beginnner fundamentals of Python). I am excited for the future of Blockchain, NFTs, Crypto, and the Metaverse. 
+### Hello World! I’m a software engineering student at TripleTen, currently building my front-end skills. I've built a couple of landing pages and I'm currently working on an app. Below is my current tech stack (in addition to some beginnner fundamentals of Python). I am excited for the future of Blockchain, NFTs, Crypto, and the Metaverse. 
 
 
 ### 💬 Current Tech Stack: 
