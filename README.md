@@ -2,10 +2,10 @@
 
 
 
-### Hi 👋! 
+### Hi 👋
 
-### I’m a new Full-Stack Engineer, currently expanding upon my knowledge of Artificial Intelligence, Blockchain, and he Metaverse. 
-### I've built a few landing pages, a mock social media profile page, and a full-stack weather application. You can find my tech stack and links to my projects below. 
+### I’m a new Full-Stack Engineer, currently expanding upon my knowledge of Artificial Intelligence, Blockchain, and the Metaverse. 
+### I've built a few landing pages, a mock social media profile page, and a full-stack weather application. You can find links to my projects below. 
 
 ### 📫 Contact: sterlingbrayboyn@gmail.com
 
